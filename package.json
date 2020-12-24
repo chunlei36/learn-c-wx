@@ -1,0 +1,38 @@
+{
+  "name": "learn-c-wx",
+  "version": "1.0.0",
+  "description": "培训-小程序分包",
+  "main": "main.js",
+  "scripts": {
+    "dev:weixin": "liepin-uni-cli -- dev weixin",
+    "dev:baidu": "liepin-uni-cli -- dev baidu",
+    "dev:alipay": "liepin-uni-cli -- dev alipay",
+    "build:weixin": "liepin-uni-cli -- build weixin",
+    "build:baidu": "liepin-uni-cli -- build baidu",
+    "build:alipay": "liepin-uni-cli -- build alipay",
+    "prod:weixin": "liepin-uni-cli -- prod weixin",
+    "prod:baidu": "liepin-uni-cli -- prod baidu",
+    "prod:alipay": "liepin-uni-cli -- prod alipay"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chunlei36/learn-c-wx.git"
+  },
+  "keywords": [
+    "miniProgram",
+    "c"
+  ],
+  "devDependencies": {
+    "@liepin/uni-cli-wx": "1.0.0-learn5",
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "dependencies": {
+  },
+  "author": "zhangchunlei",
+  "license": "MIT",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

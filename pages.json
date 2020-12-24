@@ -1,0 +1,11 @@
+{
+	"pages": [
+		{
+			"path": "demo/index",
+			"style": {
+				"navigationBarTitleText": "demo"
+			},
+			"pid": "1"
+		}
+	]
+}

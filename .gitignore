@@ -1,0 +1,10 @@
+.idea*
+.themeconfigrc
+yarn-error.log
+yarn.lock
+package-lock.json
+node_modules
+dist/
+.dist/
+.svn*
+.DS_Store
