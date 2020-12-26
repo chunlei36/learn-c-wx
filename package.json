@@ -23,7 +23,7 @@
     "c"
   ],
   "devDependencies": {
-    "@liepin/uni-cli-wx": "1.0.0-learn5",
+    "@liepin/uni-cli-wx": "1.0.0-learn6",
     "cz-conventional-changelog": "3.3.0"
   },
   "dependencies": {
