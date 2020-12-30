@@ -5,6 +5,12 @@
 			"style": {
 				"navigationBarTitleText": "demo"
 			}
+		},
+		{
+			"path": "event/index",
+			"style": {
+				"navigationBarTitleText": "event"
+			}
 		}
 	]
 }
